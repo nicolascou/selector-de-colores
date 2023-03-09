@@ -271,11 +271,9 @@ label {
   .saved-palettes-wrapper h2 {
     margin-left: 0;
   }
-  .saved-palettes-container {
-    margin-top: 10px;
-  }
   .box-palette {
     margin: 0;
+    margin-top: 12px;
   }
 }
 
